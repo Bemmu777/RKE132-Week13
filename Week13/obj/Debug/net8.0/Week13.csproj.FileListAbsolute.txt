@@ -1,0 +1,4 @@
+C:\Users\SM\OneDrive\Töölaud\Proge\Week13\Week13\obj\Debug\net8.0\Week13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SM\OneDrive\Töölaud\Proge\Week13\Week13\obj\Debug\net8.0\Week13.AssemblyInfoInputs.cache
+C:\Users\SM\OneDrive\Töölaud\Proge\Week13\Week13\obj\Debug\net8.0\Week13.AssemblyInfo.cs
+C:\Users\SM\OneDrive\Töölaud\Proge\Week13\Week13\obj\Debug\net8.0\Week13.csproj.CoreCompileInputs.cache
